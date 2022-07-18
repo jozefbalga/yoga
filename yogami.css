@@ -1,0 +1,58 @@
+.bodyStyle {
+    background-color: black;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.defaultMargin {
+    margin: 5px;
+}
+
+.borderRounding {
+    border-radius: 5px;
+}
+
+.priceList {
+    border-color: whitesmoke;
+    color: whitesmoke;
+    width: 1500px;
+}
+
+.serviceCategory {
+    height: 310px;
+}
+
+.serviceCategoryColor {
+    color: palegoldenrod;
+    border-color: palegoldenrod;
+}
+
+.communicationType {
+    height: 70px;
+    width: 420px;
+}
+
+.countOfHours {
+    width: 400px;
+}
+
+.price {
+    width: 60px;
+    text-align: right;
+    font-weight: bolder;
+}
+
+.liveLayout {
+    color: green;
+    border-color: green;
+}
+
+.zoomLayout {
+    color: orange;
+    border-color: orange;
+}
+
+.cancelLayout {
+    color: red;
+    border-color: red;
+}
